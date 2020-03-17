@@ -1,0 +1,26 @@
+I"�<h4 id="分享创造的愉悦">分享创造的愉悦</h4>
+<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/workshop/IMC/" title="IMC创意编程工作坊" class="post-teaser"><img src="http://localhost:4000/images//workshop/imc/teaser.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2019-12-15" itemprop="datePublished">December 15, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/workshop/IMC/">IMC创意编程工作坊</a></h2>
+  <p class="post-excerpt" itemprop="description">本地创意编程社群首次活动
+</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/workshop/TedxNingbo/" title="TEDxNingbo Adventure 自装配探索实验" class="post-teaser"><img src="http://localhost:4000/images//workshop/self/teaser.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2019-11-20" itemprop="datePublished">November 20, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/workshop/TedxNingbo/">TEDxNingbo Adventure 自装配探索实验</a></h2>
+  <p class="post-excerpt" itemprop="description">探索自装配的无穷可能性
+</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET

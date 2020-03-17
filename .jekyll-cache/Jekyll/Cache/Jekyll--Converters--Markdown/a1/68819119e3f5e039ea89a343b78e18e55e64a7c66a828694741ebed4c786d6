@@ -1,0 +1,60 @@
+I"L	<h4 id="定义边界演绎参数探索纷繁可能性">定义边界，演绎参数，探索纷繁可能性。</h4>
+<p>通过对设计范式的精确的参数描述，借助算力遵循遍历规则，衍生无穷造型。</p>
+<h5 id="典型案例-1---手环的衍生式设计">典型案例 1 - 手环的衍生式设计</h5>
+<p>我们在Rhino Grasshopper环境中创造了一个自动化手环生成系统</p>
+<ul>
+  <li>自动化定量设计分析研究</li>
+  <li>自动化选择/生成设计方向</li>
+  <li>自动化测试和降低设计风险</li>
+  <li>自动化生成批量不同版本的设计</li>
+</ul>
+
+<p><img src="/images/design/bangle.gif" alt="" /></p>
+
+<p>从而助力客户实现敏捷设计</p>
+<ul>
+  <li>快速调用类似设计方案</li>
+  <li>灵活生成最佳性价比的设计方案</li>
+  <li>迅速分类/排序设计条件的优先级</li>
+  <li>确保跟踪设计过程中实施问题</li>
+</ul>
+
+<p>批量输出的结果：</p>
+
+<p><img src="/images/design/bangle1.png" alt="" />
+<img src="/images/design/bangle2.png" alt="" /></p>
+
+<p>3D打印可制造性检测：</p>
+
+<p><img src="/images/design/bangle3.jpg" alt="" /></p>
+<h5 id="典型案例-2---智能定制鼠标">典型案例 2 - 智能定制鼠标</h5>
+<p>我们利用leap motion 对手形进行扫描，编写接口在Fusion 360中完成数据的读取与作图。</p>
+
+<p><img src="/images/design/mouse1.png" alt="" /></p>
+
+<p>再利用gh，对非参造型进行进一步的探索。</p>
+
+<p><img src="/images/design/mouse2.png" alt="" />
+<img src="/images/design/mouse3.png" alt="" /></p>
+
+<p>将迭代结果导入Fusion 360，进行参数化重建，电路联合设计。</p>
+
+<p><img src="/images/design/mouse4.png" alt="" /></p>
+
+<p>打印、焊接、装配，完成鼠标定制。</p>
+
+<p><img src="/images/design/mouse5.png" alt="" /></p>
+<h5 id="雕塑肌理与造型">雕塑、肌理与造型</h5>
+
+<p><img src="/images/design/640x_13.png" alt="" />
+<img src="/images/design/640x_4.png" alt="" />
+<img src="/images/design/640x_6.png" alt="" />
+<img src="/images/design/640x_7.png" alt="" />
+<img src="/images/design/640x_8.png" alt="" />
+<img src="/images/design/640x_9.png" alt="" />
+<img src="/images/design/640x_10.png" alt="" />
+<img src="/images/design/640x_12.png" alt="" />
+<img src="/images/design/640x_5.png" alt="" />
+<img src="/images/design/640x_11.png" alt="" /></p>
+
+:ET

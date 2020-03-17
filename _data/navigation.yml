@@ -1,6 +1,22 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: 智能设计
+  url: /designAI/
+  excerpt: "定义边界，演绎参数，探索纷繁的可能性."
+  image: para400x250.png
+- title: 原型开发
+  url: /prototype/
+  excerpt: "产品设计、电路实现、小批量生产，敏捷开发."
+  image: prototype400x250.png
+- title: 媒体交互
+  url: /interactive/
+  excerpt: "柔性，气动 ，动画，互动装置，打破虚实."
+  image: interactive400x250.png
+- title: 工作坊
+  url: /workshop/
+  excerpt: "创意编程，交互硬件，STEM套件."
+  image: workshop400x250.png
+- title: 我们
+  url: /about/
+  excerpt: "期待与您一起."
+  image: team400x250.png

@@ -1,0 +1,36 @@
+I"B<h4 id="设计交互媒介营造全新体验突破虚实之间">设计交互媒介，营造全新体验，突破虚实之间。</h4>
+<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/interactive/techx/" title="Fragments for TechX 2019" class="post-teaser"><img src="http://localhost:4000/images//interactive/fragment/teaser.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2019-06-10" itemprop="datePublished">June 10, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/interactive/techx/">Fragments for TechX 2019</a></h2>
+  <p class="post-excerpt" itemprop="description">助力Yuki Yao Design，LED矩阵方案。
+</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/interactive/penuform/" title="Pneumatic Form" class="post-teaser"><img src="http://localhost:4000/images//interactive/pneumatic/teaser.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2019-06-02" itemprop="datePublished">June 02, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/interactive/penuform/">Pneumatic Form</a></h2>
+  <p class="post-excerpt" itemprop="description">柔性、气动、响应式设计
+</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/interactive/movie/" title="动画cg案例" class="post-teaser"><img src="http://localhost:4000/images//interactive/movie.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2019-05-10" itemprop="datePublished">May 10, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/interactive/movie/">动画cg案例</a></h2>
+  <p class="post-excerpt" itemprop="description">概念创作，特效设计，产品发布
+</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET

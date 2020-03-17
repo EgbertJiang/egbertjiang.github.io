@@ -1,0 +1,37 @@
+I"T<h4 id="产品设计电路实现小批量生产助力敏捷开发">产品设计、电路实现、小批量生产，助力敏捷开发</h4>
+
+<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/prototype/design/" title="机械、结构与产品" class="post-teaser"><img src="http://localhost:4000/images//prototype/machine/teaser.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2019-12-01" itemprop="datePublished">December 01, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/prototype/design/">机械、结构与产品</a></h2>
+  <p class="post-excerpt" itemprop="description">一些设计案例
+</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/prototype/DAIDs/" title="DAIDS按键模拟器" class="post-teaser"><img src="http://localhost:4000/images//Daids/Daids_teaser.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2019-10-21" itemprop="datePublished">October 21, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/prototype/DAIDs/">DAIDS按键模拟器</a></h2>
+  <p class="post-excerpt" itemprop="description">HID 模拟器，物理按键程序化输入。
+</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/prototype/selfassembly/" title="自装配实验台" class="post-teaser"><img src="http://localhost:4000/images//prototype/selfassembly/teaser.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2019-06-01" itemprop="datePublished">June 01, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/prototype/selfassembly/">自装配实验台</a></h2>
+  <p class="post-excerpt" itemprop="description">原理设计，小型非标设备搭建
+</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET

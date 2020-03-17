@@ -1,0 +1,36 @@
+I"�<h4 id="原理设计小型非标设备搭建">原理设计，小型非标设备搭建</h4>
+
+<p>本装置通过人造风场，利用乒乓球作为装配对象，用于寻找更大尺度下自装配规律。</p>
+
+<p>使用raspberry pi 搭载机器视觉算法，完成实时的装配进程追踪。</p>
+
+<p><strong>数控遮板原理图</strong></p>
+
+<p><img src="/images/prototype/selfassembly/1.png" alt="" /></p>
+
+<p><strong>数控遮板搭建</strong></p>
+
+<p><img src="/images/prototype/selfassembly/2.png" alt="" /></p>
+
+<p><strong>流场模拟</strong></p>
+
+<p><img src="/images/prototype/selfassembly/4.png" alt="" /></p>
+
+<p><strong>风场搭建</strong></p>
+
+<p><img src="/images/prototype/selfassembly/3.png" alt="" /></p>
+
+<p><strong>视觉追踪</strong></p>
+
+<p><img src="/images/prototype/selfassembly/5.png" alt="" /></p>
+
+<p><img src="/images/prototype/selfassembly/6.png" alt="" /></p>
+
+<p><strong>实验台细节</strong></p>
+
+<p><img src="/images/prototype/selfassembly/640x_3.jpg" alt="" /></p>
+
+<p><img src="/images/prototype/selfassembly/8.png" alt="" /></p>
+
+<p><img src="/images/prototype/selfassembly/640x_4.jpg" alt="" /></p>
+:ET
